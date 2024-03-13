@@ -169,7 +169,7 @@
     background-color: #000;
     color: blue;
     padding: 15px;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .arredondadas-2 {
@@ -178,3 +178,16 @@
     padding: 15px;
     border-radius: 25px;
 }
+
+/* 22 Box Model*/
+
+.box-model {
+    margin: 20px;
+    background-color: aquamarine;
+    /* padding: 15px 25px 15px 25px; */
+    padding: 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 400px;
+}
+
